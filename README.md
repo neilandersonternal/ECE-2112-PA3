@@ -98,12 +98,13 @@ immediately navigates through the row 2,27,29 specifically. And search for the M
 which is in the columns section.
 
 
-That's all for my second assignment. Thank you for reading!!
+That's all for my third assignment. Thank you for reading!!
 
 **README** file version history:
 
 September 5, 2026: Initial README output uploaded.
 
+September 14, 2026: Adjusted README is uploaded.
 
 
 
